@@ -13,7 +13,7 @@ Identificar los factores principales que causan la pérdida de clientes en una e
 * **Factor #1:** Los **Cargos Mensuales** elevados son el predictor más fuerte de abandono.
 * **Factor #2:** Los clientes con **poca antigüedad** son más propensos a cancelar el servicio.
 
-![Importancia de Variables](cliente que abandona .png)
+![Importancia de Variables](cliente que abandona.png)
 
 ## 📈 Resultados del Modelo
 El modelo Random Forest permite a la empresa priorizar esfuerzos de retención sobre los clientes de alto riesgo identificados por el algoritmo.

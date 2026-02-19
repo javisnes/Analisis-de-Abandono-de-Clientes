@@ -9,6 +9,10 @@ Identificar los factores principales que causan la pérdida de clientes en una e
 3. **Machine Learning:** Implementación de un modelo de clasificación **Random Forest**.
 4. **Interpretabilidad:** Análisis de importancia de variables para negocio.
 
+## 📂 Estructura de Datos
+* **Telecom_Churn_Sucio.csv:** Datos originales con inconsistencias, valores nulos y errores tipográficos.
+* **dataset_churn_limpio.csv:** Datos procesados tras el pipeline de limpieza, listos para modelado.
+
 ## 📊 Hallazgos Clave
 * **Factor #1:** Los **Cargos Mensuales** elevados son el predictor más fuerte de abandono.
 * **Factor #2:** Los clientes con **poca antigüedad** son más propensos a cancelar el servicio.
